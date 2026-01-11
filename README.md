@@ -3,25 +3,33 @@
 
 I’m a passionate about transforming **raw, complex data into meaningful insights** that support better decision-making. I enjoy working at the intersection of **data analytics, statistics, and machine learning**, where numbers turn into stories and insights turn into impact.
 
-My experience spans the **entire data lifecycle** — from data collection, cleaning, and exploratory data analysis (EDA) to visualization, modeling, and insight communication. I focus not just on building models, but on **understanding the business problem behind the data**.
-
 ### 💡 What I Work On
 - Cleaning, preprocessing, and analyzing large datasets  
 - Performing in-depth exploratory data analysis to uncover patterns and trends  
 - Creating clear, compelling visualizations and dashboards  
-- Building and evaluating machine learning models for prediction and classification  
-- Translating technical findings into actionable insights for stakeholders  
 
 ### 🛠️ Tools & Technologies
 - **Languages:** Python, SQL  
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
 - **Visualization:** Power BI, Tableau, Matplotlib  
-- **Workflow:** Jupyter Notebook, VSCode, Git, GitHub  
+- **Workflow:** Jupyter Notebook, VSCode, Git, GitHub
+- **Statistics:** Descriptive Statistics, Probability
+
+### 📂 What You’ll Find on This GitHub
+- Data analysis projects using Python and SQL  
+- Exploratory Data Analysis (EDA) notebooks   
+- Dashboards and data visualization practice  
+- Notes and learning resources  
 
 🎯 **Current Focus:**  
 Developing end-to-end data projects that solve real-world problems and demonstrate strong analytical thinking.
 
-📈 Always learning, experimenting, and refining my approach to data.
+## 🤝 Let’s Connect
+- 💼 LinkedIn: *www.linkedin.com/in/mehak-aggarwal-616622249*  
+- 📧 Email: *mehakagg04@gmail.com*  
+
+I’m actively looking for **internships**, **entry-level data analyst roles**, and opportunities to learn and grow in data science.  
+Thanks for visiting my profile!
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
