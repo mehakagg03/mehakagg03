@@ -11,7 +11,7 @@ I’m a passionate about transforming **raw, complex data into meaningful insigh
 ### 🛠️ Tools & Technologies
 - **Languages:** Python, SQL  
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
-- **Visualization:** Power BI, Tableau, Matplotlib  
+- **Visualization:** Power BI, MS Excel 
 - **Workflow:** Jupyter Notebook, VSCode, Git, GitHub
 - **Statistics:** Descriptive Statistics, Probability
 
