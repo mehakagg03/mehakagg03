@@ -9,7 +9,7 @@ I’m a passionate about transforming **raw, complex data into meaningful insigh
 - Creating clear, compelling visualizations and dashboards  
 
 ### 🛠️ Tools & Technologies
-- **Languages:** Python, SQL  
+- **Languages:** Python, SQL, HTML/CSS 
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
 - **Visualization:** Power BI, MS Excel 
 - **Workflow:** Jupyter Notebook, VSCode, Git, GitHub
